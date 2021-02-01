@@ -1,0 +1,30 @@
+⇒ git init 
+To initialize a git repository,this will create a hidden git folder
+⇒ git clone https….
+To clone a existing project 
+⇒ git add . || git add filename
+To add your files in git
+⇒ git commit -m “ commit message”
+To commit a project with an message
+⇒ git status
+To check the status
+⇒ git log
+To check all the history
+⇒ echo node_modules >> .gitignore
+Put all the files in gitignore which you dont want to upload
+⇒ git remote add origin https://github.com/Milan843/practise_git.git
+Adding a project or linking a project to online git
+⇒ git push origin master
+To push your code to your repo
+⇒ git pull origin branchname
+To take pull from any branch
+⇒ git branch BranchName
+To create an new branch
+⇒ git branch --list
+To see all the branch name in repo
+⇒ git checkout branchName
+To switch between branches
+⇒ git checkout -b branchname
+Create a local branch to work on and move to it
+==> git merge branchName
+To merge one branch to other

@@ -67,3 +67,7 @@ console.log(z);
 let i=closure()
 i()
 
+
+
+//////////////////thank you//////////////////////////
+

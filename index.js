@@ -42,7 +42,7 @@ console.log("sha");
 
 // //////////////////reference example
 // let obj={value:10}
-
+//this is edit
 // function increa(obj){
 //     obj.value++
 //     console.log(obj,"r"); ///////11
